@@ -5,6 +5,7 @@
 
   <h3>🚧 Project under construction... 🚧</h3>
   <br>
+  <p>*Space Learn is undergoing modifications, it will be released again on the PlayStore soon.</p>
   
 </div>
 
@@ -17,9 +18,6 @@
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#layout">Layout</a></li>
     <li><a href="#language-and-tools">Language and tools</a></li>
-    <li><a href="#implementation-ideas">Implementation ideas</a></li>
-    <li><a href="#installation">Installation</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#author">Author</a></li>
   </ol>
 </details>
@@ -29,16 +27,15 @@
 <!-- ============== ABOUT ============== -->
 ## About the project
 
-<div align="center">
-  
-  ![404](https://user-images.githubusercontent.com/82480542/215136425-92c500f7-5e9b-45f3-a434-3278d9d5f8cf.png)
+Space Learn is my final thesis developed at the end of my bachelor's degree. For more details [click here](https://repositorio.ifes.edu.br/handle/123456789/2685).
 
-  [![Site][Site-shields]][Site-link]
-</div>
+<p>Space Learn is a Single player game, of the Textual, Quiz genre, focused on teaching astronomy and astronautics. Encompassing several modules with questions, modeled and adapted from questions taken from the tests of the Brazilian Astronomy and Astronautics Olympiad (OBA).</p>
 
-<p>This space is reserved for describing the project. It is important that the description is clear and detailed, including information such as objectives, scope, among other aspects relevant to the project. Thus, it will be possible to better understand the context and needs of the project.</p>
+<p>The game contains four main screens: Home, Ranking, Profile and Settings. Each screen has its own different visual identity, each associated with its color. Each screen is described and detailed in the Interface topic of this document.</p>
 
+<p>The player is rewarded with an "Observation" medal. This medal will level up as the continuous use time (daily use) of the game increases, levels range from 1 to 6.</p>
 
+<p>The experience system (XP) is responsible for the player's progress, and this system is responsible for releasing modules and determining the player's level. Where each player has 5 lives every 6 hours.</p>
 
 <!-- ============== LAYOUT ============== -->
 ## Layout
